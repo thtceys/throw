@@ -9,4 +9,4 @@ bash throw.sh
 
 video:
 
-![Home](https://youtu.be/gcyvnDVLt00)
+https://youtu.be/gcyvnDVLt00
