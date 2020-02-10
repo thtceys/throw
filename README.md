@@ -3,9 +3,9 @@ ağa bağlı olanların internetini kesme aracı
 
 ![Home](https://i.hizliresim.com/yj8BPj.png)
 
-git klonu https://github.com/thtceys/throw
-cd cyberhunter
-bash throw.sh
+git klonu https://github.com/thtceys/throw <br>
+cd cyberhunter <br>
+bash throw.sh <br>
 
 video:
 
